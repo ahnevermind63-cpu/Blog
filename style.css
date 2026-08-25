@@ -73,8 +73,18 @@ code {
 .site-nav a:hover { color: var(--accent); }
 
 .brand-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: var(--paper-raised);
+  border: 1px solid var(--accent);
   font-family: "Fraunces", serif;
-  font-size: 28px;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.02em;
   color: var(--accent);
   line-height: 1;
 }

@@ -21,12 +21,11 @@
   Leave it as "" to show your initials instead.
 */
 const AUTHOR = {
-  name: "Your Name",
+  name: "Raj Singh",
   photo: "",
   bio: `
-    <p>I'm just someone who likes writing things down. No credentials,
-    no niche — just an ordinary person putting plain thoughts into words.</p>
-    <p>Say hello: <a href="mailto:you@example.com">you@example.com</a></p>
+    <p>Raj Singh — law student, and keeping a digital diary just in case.</p>
+    <p>Say hello: <a href="mailto:raj19singh04@gmail.com">raj19singh04@gmail.com</a></p>
   `
 };
 
