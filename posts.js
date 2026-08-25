@@ -34,19 +34,4 @@ const POSTS = [
       <p>If you found this through a link someone sent you: welcome. More soon.</p>
     `
   },
-  {
-    slug: "second-post",
-    title: "A second post, to prove the list works",
-    date: "2026-08-20",
-    tags: ["meta", "test"],
-    excerpt: "A short example post so you can see how multiple entries look in the list.",
-    content: `
-      <p>This is just a placeholder so the homepage has more than one entry to show.
-      Feel free to delete this object from <code>posts.js</code> once you have real
-      posts of your own.</p>
-
-      <p>Notice the date, tags, and excerpt above are all pulled from the same object
-      in <code>posts.js</code> — you only write your post once.</p>
-    `
-  }
 ];
